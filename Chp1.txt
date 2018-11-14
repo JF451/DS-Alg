@@ -1,0 +1,10 @@
+Important notes to take from chapter - mainlt to implement alg/DS in python to practice.
+
+
+
+
+
+
+
+
+
